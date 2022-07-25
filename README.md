@@ -13,12 +13,7 @@
 
 <h5>Back-end</h5>
 
-    <ul>
-      <li>O formulário deve ser validado no back-end</li>
-      <li>Ao enviar, deve salvar em banco de dados e enviar por email os dados da mensagem</li>
-    </ul>
-
-  O formulário deve ser validado no back-end
+  O formulário deve ser validado no back-end<br>
   Ao enviar, deve salvar em banco de dados e enviar por email os dados da mensagem
   
  ![image](https://user-images.githubusercontent.com/97896037/180696409-5748f6cf-5fa1-4e49-b093-bc111100a39e.png) 
